@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p pcorrmat Matrix of partial correlation coefficients controlled for a fixed set of covariates Use pcorrmat With STATA 19
