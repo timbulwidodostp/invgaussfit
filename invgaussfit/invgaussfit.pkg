@@ -1,4 +1,11 @@
-D 'pcorrmat': Matrix of partial correlation coefficients controlled for a fixed set of covariates Use pcorrmat With STATA 19
+D 'invgaussfit': Fitting a two-parameter inverse Gaussian distribution by maximum likelihood Use invgaussfit With STATA 19
 D
-F pcorrmat.ado
-F pcorrmat.hlp
+F invgausscf.ado
+F invgausscf.hlp
+F invgaussfit.ado
+F invgaussfit.hlp
+F invgaussfit_lf.ado
+F pinvgauss.ado
+F pinvgauss.hlp
+F qinvgauss.ado
+F qinvgauss.hlp
