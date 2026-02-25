@@ -1,6 +1,8 @@
 # invgaussfit
 Fitting a two-parameter inverse Gaussian distribution by maximum likelihood Use invgaussfit With STATA 19
 
+https://www.youtube.com/watch?v=L5WPWgIhUYw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
